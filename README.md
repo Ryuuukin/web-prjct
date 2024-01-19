@@ -42,5 +42,3 @@ The EJS template for the home page, welcoming users after successful login. It d
 
 - Course: SE-2213 (Software Engineering)
 - Instructors: [Zhussipkali Faizolla]
-
-Feel free to explore and customize this project for your needs!
